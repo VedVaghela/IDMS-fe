@@ -1,0 +1,71 @@
+*
+{
+    background: #1E1E1E;
+
+}
+
+.box
+{
+    
+    position: absolute;
+    width: 729px;
+    height: 562px;
+    left: 527px;
+    top: 138px;
+    
+    background: #20955D;
+    border-radius: 23px;
+
+}
+
+.heading
+{
+position: absolute;
+width: 630px;
+height: 48px;
+left: 655px;
+top: 57px;
+
+/* font-family: 'Inter';
+font-style: normal; */
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+
+.inputBox
+{
+position: relative;
+width: 594px;
+height: 53px;
+left: 60px;
+top: 100px;
+
+background: #EDF9E7;
+border-radius: 6px;
+}
+
+.img
+{
+    position: absolute;
+    width: 721px;
+    height: 699px;
+    left: 0px;
+    top: 297px;
+}
+
+.RegisterButton
+{
+position: absolute;
+width: 151px;
+height: 53px;
+left: 285px;
+top: 470px;
+color: #FFFFFF;
+font-size: medium;
+background: #0F3F28;
+border-radius: 9px;
+}
+
